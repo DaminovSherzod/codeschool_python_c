@@ -4,3 +4,5 @@
 - Karimov Abdullatif
 - Diyorbek Jumanov
 - Azizbek Qozoqov
+- Quvvatullayev Ogabek
+- Azizbek Qozoqov
