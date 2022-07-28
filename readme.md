@@ -1,2 +1,2 @@
 # List of students
-a = ['students]
+-Quvvatullayev Ogabek
